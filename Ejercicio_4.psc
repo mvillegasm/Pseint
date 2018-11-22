@@ -17,4 +17,5 @@ Algoritmo Numero_mayor
 	si c>a y c>b Entonces
 		Escribir c, " Es el número mayor"
 	FinSi
+	
 FinAlgoritmo
