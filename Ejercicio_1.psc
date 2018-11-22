@@ -10,4 +10,5 @@ Algoritmo Numero_entre
 		Hasta Que num>0 y num<15
 		Escribir "Correcto"
 	Fin Si
+	
 FinAlgoritmo
