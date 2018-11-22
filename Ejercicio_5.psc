@@ -31,5 +31,4 @@ Algoritmo Piedra_papel_o_tijera
 		Escribir "Cpu gana!!!"
 	FinSi
 	
-	
 FinAlgoritmo
