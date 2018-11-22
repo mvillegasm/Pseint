@@ -14,4 +14,5 @@ Algoritmo Numero_primo
 	SiNo
 		Escribir num_1," no es numero primo"
 	Fin Si
+	
 FinAlgoritmo
